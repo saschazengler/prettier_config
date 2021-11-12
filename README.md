@@ -1,3 +1,3 @@
 ## Prettier Config
 
-Personal config file for prettier.
+Personal config file for [Prettier](https://prettier.io/).
